@@ -9,7 +9,7 @@ This project provides a WebApp that automates the generation of Dockerfiles usin
 - **ChatGPT Integration:** Leverages a custom-trained OpenAI model trained on existing Dockerfile data to generate Dockerfiles better suited for the repository.
 
 
-## Here is a video link showcasing the example:
+**Here is a video link showcasing the example:**
 
 https://drive.google.com/file/d/1GBKYl9iqcgeKPIXyrakD71OQAoveNoh8/view?usp=sharing
 ---
